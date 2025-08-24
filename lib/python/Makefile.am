@@ -15,4 +15,5 @@ install_PYTHON = \
 	ServiceReference.py \
 	skin.py \
 	StartEnigma.py \
-	timer.py
+	timer.py \
+    upgrade.py
